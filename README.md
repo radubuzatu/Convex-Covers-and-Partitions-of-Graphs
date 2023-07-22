@@ -9,6 +9,7 @@ Here are implemented the algorithms described in the following articles:
 
   1.  C# Programming Language
   2.  Microsoft .NET Framework 4.0
+  3.  Microsoft Visual Studio 2015
 
 <h3> Features </h3>
 
