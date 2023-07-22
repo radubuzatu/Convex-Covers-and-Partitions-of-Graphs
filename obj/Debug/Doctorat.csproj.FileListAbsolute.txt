@@ -1,0 +1,10 @@
+c:\users\radu\documents\visual studio 2015\Projects\Doctorat\Doctorat\bin\Debug\Doctorat.exe.config
+c:\users\radu\documents\visual studio 2015\Projects\Doctorat\Doctorat\bin\Debug\Doctorat.exe
+c:\users\radu\documents\visual studio 2015\Projects\Doctorat\Doctorat\bin\Debug\Doctorat.pdb
+c:\users\radu\documents\visual studio 2015\Projects\Doctorat\Doctorat\obj\Debug\Doctorat.csprojResolveAssemblyReference.cache
+c:\users\radu\documents\visual studio 2015\Projects\Doctorat\Doctorat\obj\Debug\Doctorat.exe
+c:\users\radu\documents\visual studio 2015\Projects\Doctorat\Doctorat\obj\Debug\Doctorat.pdb
+G:\Doctorat\Doctorat\bin\Debug\Doctorat.exe.config
+G:\Doctorat\Doctorat\obj\Debug\Doctorat.exe
+G:\Doctorat\Doctorat\obj\Debug\Doctorat.pdb
+G:\Doctorat\Doctorat\obj\Debug\Doctorat.csprojResolveAssemblyReference.cache
