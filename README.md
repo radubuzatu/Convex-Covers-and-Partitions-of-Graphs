@@ -10,4 +10,9 @@ Here are implemented the algorithms described in the following articles:
   1.  C# Programming Language
   2.  Microsoft .NET Framework 4.0
 
+<h3> Features </h3>
 
+  1.  Determine the maximum nontrivial convex cover of a tree
+  2.  Determine the maximum nontrivial convex partition of a tree
+  3.  Determine the type of a graph
+  4.  Determine whether a graph can be covered by an arbitrary number of nontrivial convex sets
